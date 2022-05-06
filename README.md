@@ -64,7 +64,7 @@ Next, I wanted to look at Chronic Absenteeism amongst African American students.
 --- 
 [OUSD Data on absenteeism](https://data.oaklandca.gov/Equity-Indicators/Chronic-Absenteeism/5d4q-57a4/data) & [CA Data on absenteeism ](https://dq.cde.ca.gov/dataquest/DQCensus/AttChrAbsRate.aspx?cds=00&agglevel=State&year=2020-21&initrow=Eth&ro=y)
 
-![ChronicAbsenteeism_OUSD_CA](https://user-images.githubusercontent.com/99926470/167165282-0d64229c-2c7a-4c32-8336-ccb4ae05a83d.jpg)
+![ChronicAbsenteeism_OUSD_CA](https://user-images.githubusercontent.com/99926470/167165879-6a184588-7f60-4bde-b16a-ecea6e439cfb.jpg)
 
 [Link to Chronic Absenteeism Data Visualization ](https://infogram.com/copy-parker-data-1hxr4zxlowz3o6y?live)
 
