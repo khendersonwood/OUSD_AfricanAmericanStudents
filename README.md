@@ -91,7 +91,7 @@ I used [CA Department of Education Data](https://dq.cde.ca.gov/dataquest/DQCensu
 To compare levels of absenteeism in California amongst races and ethnicities, I combined the data from the California Department of Education from the 2017-2020  to one spreadsheet. Once I combined data from the 2017-2018 school year through the 2019-2020 school yea, I plotted the rates of overall chronic absenteeism by race and ethnicity on a line graph. 
 
  ### Historic Rates of Overall  Chronic Absenteeism Rates in California by Race and Ethnicity  
-![CA_RatesofAbsenteeism](https://user-images.githubusercontent.com/99926470/167149058-9af47a53-7fb6-4e2e-b3ce-b07cdf2fe31b.jpg)
+<img width="676" alt="Screen Shot 2022-05-06 at 9 44 31 AM" src="https://user-images.githubusercontent.com/99926470/167176310-70fabb8b-7038-4e0b-b35b-ef6d2e8ea08f.png">
   
 [Link to Chronic Absenteeism by Race Visualization](https://infogram.com/ousd-student-data-1h7k230pd30gg2x?live)
   
