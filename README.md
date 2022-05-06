@@ -18,4 +18,4 @@ OUSD Total Enrollment from 2011-12 to 2020-21 school year
 |---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|
 |  49,449 |  50,061 |  50,665 |  51,725 |  51,641 |  52,472 |  53,166 |  53,391 |  53,145 |  52,167 |
 
-!['OUSDEnrollment.jpg', 'Enrollment data from the Oakland Unified School District from 2011-12 school year to the 2020-21 school year'](/OUSDEnrollment.jpg)
+![OUSDEnrollment](https://user-images.githubusercontent.com/99926470/167075975-9e05b327-7c8c-4f20-8408-7b1cc6cb3dd0.jpg)
