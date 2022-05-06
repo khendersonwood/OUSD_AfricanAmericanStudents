@@ -83,7 +83,31 @@ To compare levels of absenteeism in California amongst races and ethnicities, I 
   
 On average students who were White, Asian, Filipino or two or more races  had minimal increases, or even a slight decrease, in chronic absenteeism. In contrast, students who were Black, Hispanic, Latino, American Indian, Alaska Native and Pacific Islander have seen an increase in absenteeism.  
 
-I then calculated the percent change from the 2017-2018 school year to the 2019-2020 school year to see if groups had an increase or decrease in absenteeism. Further, I wanted to see if there were particular groups that had changed that were more stark or drastic than others.
- 
+  ---
+<p align="center"> 
+ 4.  Which races/ethncities saw the most stark difference in chronic absenteeism?
+
+  --- 
+  
+I  calculated the percent change from the 2017-2018 school year to the 2019-2020 school year to see if groups had an increase or decrease in absenteeism. Further, I wanted to see if there were particular groups that had changed that were more stark or drastic than others.
+
+![PercentChanges](https://user-images.githubusercontent.com/99926470/167150401-bdf5aaf9-be61-4eed-b3f7-862e69ab1019.jpg)
+  
+I then pasted the  % change into a separate sheet so I could sort them from highest to lowest.  
+  
+| Race               | % Change |
+|--------------------|----------|
+| African American   |    6.70% |
+| Hispanic or Latino |    5.90% |
+| Pacific Islander   |    5.00% |
+| Hispanic or Latino |    5.00% |
+| White              |    0.30% |
+| Two or More Races  |    0.30% |
+| Asian              |    0.10% |
+| Filipino           |   -1.00% |
+  
+I found that African American students had the highest increase in absenteeism since the 2017-2018 school year, followed by American Indian or Alaska Native students, and Hispanic or Latino students. 
+  
+Lastly, I wanted to take a deeper look at one of the schools that is set to close this school year, Parker Elemntary and to look at their enrollment, particularly for African American students. To do this, I looked at OUSD enrollment again.
   
   
