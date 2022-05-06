@@ -1,6 +1,6 @@
 # African American Students in the Oakland Unified School District - Enrollment, Absenteeism and Parker K-8
 
-This is data driven story reporting about African American students in the Oakland Unified School District, enrollment trends and absenteeism rates. This analysis is in response to Oakland Unified School District School Board's decision in February 2022 to shutdown seven schools, merge two and eliminate middle school grades in two more. The schools affected are schools with a student population that are predominately Black and Brown students.
+This is data driven story about African American students in the Oakland Unified School District, enrollment trends and absenteeism rates. This analysis is in response to Oakland Unified School District School Board's decision in February 2022 to shutdown seven schools, merge two and eliminate middle school grades in two more. A majority of schools affected have a student population that is predominately Black and Brown.
 
 ---
 <p align="center"> 
