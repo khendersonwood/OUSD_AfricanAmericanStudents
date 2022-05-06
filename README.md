@@ -60,6 +60,21 @@ Next, I wanted to look at Chronic Absenteeism amongst African American students.
   
 --- 
 [OUSD Data on absenteeism](https://data.oaklandca.gov/Equity-Indicators/Chronic-Absenteeism/5d4q-57a4/data) & [CA Data on absenteeism ](https://dq.cde.ca.gov/dataquest/DQCensus/AttChrAbsRate.aspx?cds=00&agglevel=State&year=2020-21&initrow=Eth&ro=y)
+
+![ChronicAbsenteeism](https://user-images.githubusercontent.com/99926470/167146193-8f816150-14bc-461f-9410-fbae535ae9f2.jpg)
+
+  ** Please note that California does not have data from the 2019-2020 school year due to COVID and their 2020-21 data on absenteeism is not availble yet.
   
+ OUSD consistently has higher rates of absenteeism for African American students in comparison to other African American students across the state. Since the 2011-12 school year, OUSD has experienced a 29.4% increase in abseentism, while the state of California has seen a 6.7% increase.
   
+I then wanted to see how rates of absenteeism for African American students in OUSD compared to other races and ethncities in OUSD.
+    
+  ---
+<p align="center"> 
+  3.Is absenteeism rising for all races in CA? Who is hit the hardest?  
+
+  --- 
+I used [CA Department of Education Data](https://dq.cde.ca.gov/dataquest/DQCensus/AttChrAbsRate.aspx?cds=00&agglevel=State&year=2020-21&initrow=Eth&ro=y) to answer this question.  
+  
+To compare levels of absenteeism in California amongst races and ethnicities, I combined the data from the California Department Education from the 2017-2020  to one spreadsheet. Once I combined data from the 2017-2018 school year through the 2019-2020 school yea, I plotted the rates of overall chornic absenteeism by race and ethnicity on a line graph. 
   
