@@ -78,4 +78,12 @@ I used [CA Department of Education Data](https://dq.cde.ca.gov/dataquest/DQCensu
   
 To compare levels of absenteeism in California amongst races and ethnicities, I combined the data from the California Department Education from the 2017-2020  to one spreadsheet. Once I combined data from the 2017-2018 school year through the 2019-2020 school yea, I plotted the rates of overall chornic absenteeism by race and ethnicity on a line graph. 
 
+ ### Historic Rates of Overall  Chronic Absenteeism Rates in California by Race and Ethnicity  
 ![CA_RatesofAbsenteeism](https://user-images.githubusercontent.com/99926470/167149058-9af47a53-7fb6-4e2e-b3ce-b07cdf2fe31b.jpg)
+  
+On average students who were White, Asian, Filipino or two or more races  had minimal increases, or even a slight decrease, in chronic absenteeism. In contrast, students who were Black, Hispanic, Latino, American Indian, Alaska Native and Pacific Islander have seen an increase in absenteeism.  
+
+I then calculated the percent change from the 2017-2018 school year to the 2019-2020 school year to see if groups had an increase or decrease in absenteeism. Further, I wanted to see if there were particular groups that had changed that were more stark or drastic than others.
+ 
+  
+  
