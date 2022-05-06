@@ -68,7 +68,7 @@ Next, I wanted to look at Chronic Absenteeism amongst African American students.
 
 ![ChronicAbsenteeism_OUSD_CA](https://user-images.githubusercontent.com/99926470/167165879-6a184588-7f60-4bde-b16a-ecea6e439cfb.jpg)
 
-[Link to Chronic Absenteeism Data Visualization ](https://infogram.com/copy-parker-data-1hxr4zxlowz3o6y?live)
+[Link to Chronic Absenteeism Data Visualization ](https://infogram.com/copy-parker-data-1hxr4zxlowz3o6y)
 
   ** Please note that California does not have data from the 2019-2020 school year due to COVID and their 2020-21 data on absenteeism is not available yet.
   
@@ -88,7 +88,7 @@ To compare levels of absenteeism in California amongst races and ethnicities, I 
  ### Historic Rates of Overall  Chronic Absenteeism Rates in California by Race and Ethnicity  
 ![CA_RatesofAbsenteeism](https://user-images.githubusercontent.com/99926470/167149058-9af47a53-7fb6-4e2e-b3ce-b07cdf2fe31b.jpg)
   
-[Link to Chronic Absenteeism by Race Visualization](https://infogram.com/ousd-student-enrollment-1hd12yx7ew79x6k)
+[Link to Chronic Absenteeism by Race Visualization](https://infogram.com/ousd-student-data-1h7k230pd30gg2x?live)
   
 On average students who were White, Asian, Filipino or two or more races  had minimal increases, or even a slight decrease, in chronic absenteeism. In contrast, students who were Black, Hispanic, Latino, American Indian, Alaska Native and Pacific Islander have seen an increase in absenteeism.  
 
@@ -146,15 +146,20 @@ Additional Sources
  To learn more about OUSD school closures, enrollment, absenteeism and Parker K-8 you can reach out to:
     
  #### John Sasaski
+    
  OUSD Director of Communications
+    
  john.sasaki@ousd.org
     
  John Sasaki can answer additional questions about schools in the district, such as: where are students set to attend when their schools shut down, what percent of students are receiving additional support from the school throughout this transition etc.
     
 #### Superintedent Kyla Johnson-Trammell
-    superintendent@ousd.org
-    (510) 879-8000
-    @SupKylaOUSD
+    
+superintendent@ousd.org
+    
+(510) 879-8000
+    
+[@SupKylaOUSD](https://twitter.com/SupKylaOUSD)
     
 Superintendent Kyla Johnson-Trammell can provide a deeper insight into the district's motivation to shut down several schools, as well as provide an overview of upcoming steps for the community of Oakland
     
