@@ -109,16 +109,16 @@ I  calculated the percent change from the 2017-2018 school year to the 2019-2020
   
 I then pasted the  % change into a separate sheet so I could sort them from highest to lowest.  
   
-| Race               | % Change |
-|--------------------|----------|
-| African American   |    6.70% |
-| Hispanic or Latino |    5.90% |
-| Pacific Islander   |    5.00% |
-| Hispanic or Latino |    5.00% |
-| White              |    0.30% |
-| Two or More Races  |    0.30% |
-| Asian              |    0.10% |
-| Filipino           |   -1.00% |
+| Race                             | % Change |
+|----------------------------------|----------|
+| African American                 |    6.70% |
+| American Indian or Alaska Native |    5.90% |
+| Pacific Islander                 |    5.00% |
+| Hispanic or Latino               |    5.00% |
+| White                            |    0.30% |
+| Two or More Races                |    0.30% |
+| Asian                            |    0.10% |
+| Filipino                         |   -1.00% |
   
 I found that African American students had the highest increase in absenteeism since the 2017-2018 school year, followed by American Indian or Alaska Native students, and Hispanic or Latino students. 
   
@@ -168,4 +168,38 @@ superintendent@ousd.org
     
 Superintendent Kyla Johnson-Trammell can provide a deeper insight into the district's motivation to shut down several schools, as well as provide an overview of upcoming steps for the community of Oakland
     
+# Data Story  
     
+What started as a one-day teachers strike against school closures turned into a “Day of Action” on Friday, April  as the community joined educators on a march from the Lake Merritt Amphitheater to Oakland City Hall, on foot, bikes, rollerblades and in strollers.
+Students held picket signs high and chanted: “This is what democracy looks like! This is what community looks like!”
+
+Many parents brought their children, using the strike as a teaching lesson in activism, social justice and the right to protest.
+“We want him to understand what’s going on and why he’s not in school today,” said Jessica Hallett, parent of a 5-year-old who goes to Piedmont Avenue Elementary School. 
+
+The Oakland Education Association agreed to hold a single-day strike in response to the school board’s decision in February to close seven schools in the next two years, merge two others and eliminate middle school grades in two more. 
+
+Under the closure plan, Parker and Community Day School will close at the end of this school year, and La Escuelita will shrink from a K-8 school to only an elementary school. Rise Community Elementary and New Highland Academy, which currently share a campus in East Oakland, will merge.
+At the end of the 2022-23 school year, Brookfield Elementary, Carl B. Munck Elementary, Grass Valley Elementary, Horace Mann Elementary, and Korematsu Discovery Academy will close, and Hillcrest K-8 will lose middle school grades.  
+
+The school board has been widely criticized not only by the community but by the Oakland City Council and Alameda Board of Education for the swiftness of its decision, which gives parents, students and teachers little time to process the closures. 
+Since the announcement of school closures, Oakland has rallied together to show their opposition to this decision. The community is calling school closures racist and inequitable, particularly for their Black students. 
+
+The Day of Action began at 6:30 a.m. when students, teachers, staff and community members picketed at individual schools before meeting at the Lake Merritt Amphitheater for a “Save Our Schools” block party. Bay Area Classics played along with the beats of drums and the long blows of wind instruments. Several community organizations were present including: Black Student Reparations, Oakland Rising, and SLAP — Schools and Labor Against Privatization — showing solidarity with staff and students affected by school closures and advocating for safe and racially just schools. 
+
+Teachers said their students are devastated by the decision. And many teachers are looking for new jobs. 
+“We’ve gone through so many emotional changes,” said Gail Wooley, a Parker K-8 teacher. “First, it’s like how? Why ? And then you just get into a depression that you can’t really tell yourself you’re in because you have to keep moving.” 
+
+OUSD enrollment has been slightly rising over the years, about 5.5% from the 2011-2020 school year. In contrast, the African American student population has been dwindling. Since 2011, the Black population in OUSD has decreased by almost a quarter. Many view school closures as another event that will continue to push Black students out of OUSD, as many of the schools listed to close are made up of predominantly Black and brown students.
+
+These worries may be validated by the rates of chronic absenteeism for African American students. OUSD, California and the United States are all experiencing a rise in chronic absenteeism for African American students. The rates amongst students at OUSD are consistently higher than the state or national average. African American students and American Indian or Alaska Native students are experiencing the highest levels of chronic absenteeism. 
+
+Community members expressed concern that school closures would increase travel time for students and make them more vulnerable to predators and gun violence. Advocacy groups urged the crowd to vote for new school board members. And  students and parents spoke about what school closures would look like for them. 
+
+“I’m standing up for every student,” said Isaac Murillo, an eighth grader at La Escuelita, which will lose its middle school grades. Isaac said he was a shy kid who had a hard time expressing his opinion. 
+
+“So now I want to represent those kids that are so shy, and I want to teach them that a shy kid can also be a powerful kid,” he said. 
+
+The community of Oakland is calling for more protests. And those fighting the plan got a boost from the American Civil Liberties Union of Northern California, which filed a complaint on April 11 with the California Justice Department, calling the closure plan “racially discriminatory” because it  disproportionately affects Black students. The ACLU has asked the attorney general to investigate, alleging the plan “violates Black students’ fundamental right to equal educational opportunity under the California Constitution and discriminates based on race.” 
+The organization wants the plan halted and the district ordered to conduct an equity analysis to guide any future closure decisions. 
+
+
