@@ -50,7 +50,7 @@ OUSD, California and the United States all saw a decline in enrollment of Africa
 |---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|
 |  49,449 |  50,061 |  50,665 |  51,725 |  51,641 |  52,472 |  53,166 |  53,391 |  53,145 |  52,167 |
   
-![OUSDEnrollment](https://user-images.githubusercontent.com/99926470/167156076-fcdeb23a-9865-484b-a5df-31295a9440aa.jpg)
+![OUSD_Enrollment](https://user-images.githubusercontent.com/99926470/167166108-ca6e7c08-292f-4d5f-b6bd-34aefe515528.jpg)
 
   
 Despite OUSD's overall enrollment rising, their African American student population continues to fall.
