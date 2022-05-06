@@ -2,6 +2,8 @@
 
 This is data driven story about African American students in the Oakland Unified School District, enrollment trends and absenteeism rates. This analysis is in response to Oakland Unified School District School Board's decision in February 2022 to shutdown seven schools, merge two and eliminate middle school grades in two more. A majority of schools affected have a student population that is predominately Black and Brown.
 
+Since the announcement of school closures, the community of Oakland has rallied together to show their opposition to this decision. The community is calling school closures racist and inequitable, particularly for their Black students.
+
 ---
 <p align="center"> 
   1. How does OUSD’s enrollment trends of African American students compare to the enrollment trends across California and the United States?
