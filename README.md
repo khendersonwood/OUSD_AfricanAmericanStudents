@@ -1,4 +1,4 @@
-# African American Students in the Oakland Unified School District - Enrollment, Absenteeism and
+# African American Students in the Oakland Unified School District - Enrollment, Absenteeism and Parker K-8
 
 This is data driven story reporting about African American students in the Oakland Unified School District, enrollment trends and absenteeism rates. This analysis is in response to Oakland Unified School District School Board's decision in February 2022 to shutdown seven schools, merge two and eliminate middle school grades in two more. The schools affected are schools with a student population that are predominately Black and Brown students.
 
@@ -50,6 +50,9 @@ OUSD, California and the United States all saw a decline in enrollment of Africa
 |---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|
 |  49,449 |  50,061 |  50,665 |  51,725 |  51,641 |  52,472 |  53,166 |  53,391 |  53,145 |  52,167 |
   
+![OUSDEnrollment](https://user-images.githubusercontent.com/99926470/167156076-fcdeb23a-9865-484b-a5df-31295a9440aa.jpg)
+
+  
 Despite OUSD's overall enrollment rising, their African American student population continues to fall.
 
 Next, I wanted to look at Chronic Absenteeism amongst African American students. This data was collected from the Black Student Thriving Report that was given out at a local school board meeting on April 27, 2022 at La Escuealita Elementary School.
@@ -71,7 +74,7 @@ I then wanted to see how rates of absenteeism for African American students in O
     
   ---
 <p align="center"> 
-  3.Is absenteeism rising for all races in CA? Who is hit the hardest?  
+  4.Is absenteeism rising for all races in CA? Who is hit the hardest?  
 
   --- 
 I used [CA Department of Education Data](https://dq.cde.ca.gov/dataquest/DQCensus/AttChrAbsRate.aspx?cds=00&agglevel=State&year=2020-21&initrow=Eth&ro=y) to answer this question.  
@@ -85,7 +88,7 @@ On average students who were White, Asian, Filipino or two or more races  had mi
 
   ---
 <p align="center"> 
- 4.  Which races/ethncities saw the most stark difference in chronic absenteeism?
+ 5.  Which races/ethncities saw the most stark difference in chronic absenteeism?
 
   --- 
   
@@ -113,7 +116,7 @@ Lastly, I wanted to take a deeper look at one of the schools that is set to clos
  
   ---
 <p align="center"> 
- 5.  What does Parker's African American student enrollemnt look like over the years?
+ 6.  What does Parker's African American student enrollemnt look like over the years?
 
   ---   
 ![Parker Enrollment](https://user-images.githubusercontent.com/99926470/167152533-b4965e63-5913-4e19-811b-1e1c5e24285c.jpg)
@@ -122,7 +125,7 @@ Lastly, I wanted to take a deeper look at one of the schools that is set to clos
   
   ---
 <p align="center"> 
- 6.  How has Parker's racial demographics changed over the years?
+ 7.  How has Parker's racial demographics changed over the years?
 
   ---   
   This [visualization](https://infogram.com/parker-k-8-enrollment-1h8n6m35jowlj4x?live) shows the evolution of Parker's racial and ethnic demographics over the years.
