@@ -77,4 +77,6 @@ I then wanted to see how rates of absenteeism for African American students in O
 I used [CA Department of Education Data](https://dq.cde.ca.gov/dataquest/DQCensus/AttChrAbsRate.aspx?cds=00&agglevel=State&year=2020-21&initrow=Eth&ro=y) to answer this question.  
   
 To compare levels of absenteeism in California amongst races and ethnicities, I combined the data from the California Department Education from the 2017-2020  to one spreadsheet. Once I combined data from the 2017-2018 school year through the 2019-2020 school yea, I plotted the rates of overall chornic absenteeism by race and ethnicity on a line graph. 
-  
+
+![CA_Rates of Absenteeism](https://user-images.githubusercontent.com/99926470/167148615-0508179c-c990-4ee4-b347-cf122f736381.jpg)
+ 
