@@ -51,11 +51,14 @@ OUSD, California and the United States all saw a decline in enrollment of Africa
  | 2011-12 | 2012-13 | 2013-14 | 2014-15 | 2015-16 | 2016-17 | 2017-18 | 2018-19 | 2019-20 | 2020-21 |
 |---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|
 |  49,449 |  50,061 |  50,665 |  51,725 |  51,641 |  52,472 |  53,166 |  53,391 |  53,145 |  52,167 |
+ 
   
 ![OUSD_Enrollment](https://user-images.githubusercontent.com/99926470/167166108-ca6e7c08-292f-4d5f-b6bd-34aefe515528.jpg)
   
 [ Link to OUSD Enrollment Visualization](https://infogram.com/ousd-student-enrollment-1hd12yx7ew79x6k) 
 
+  ### OUSD overall enrollment (52167-49449)/49449= 0.05496572225 x 100 = 5.49657222593 
+  About a 5.5% increase in enrollment in the OUSD school district from 2011-2020
   
 Despite OUSD's overall enrollment rising, their African American student population continues to fall.
 
