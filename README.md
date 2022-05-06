@@ -108,6 +108,21 @@ I then pasted the  % change into a separate sheet so I could sort them from high
   
 I found that African American students had the highest increase in absenteeism since the 2017-2018 school year, followed by American Indian or Alaska Native students, and Hispanic or Latino students. 
   
-Lastly, I wanted to take a deeper look at one of the schools that is set to close this school year, Parker Elemntary and to look at their enrollment, particularly for African American students. To do this, I looked at OUSD enrollment again.
+Lastly, I wanted to take a deeper look at one of the schools that is set to close this school year, Parker K-8 and to look at their enrollment, particularly for African American students. To do this, I looked at OUSD enrollment again.
   
+ 
+  ---
+<p align="center"> 
+ 5.  What does Parker's African American student enrollemnt look like over the years?
+
+  ---   
+![Parker Enrollment](https://user-images.githubusercontent.com/99926470/167152533-b4965e63-5913-4e19-811b-1e1c5e24285c.jpg)
   
+ The data clearly shows that that Parker's African American enrollment has been falling. To get a better understand of how Parker's demographics have changed over time I created an animated piechart to display Parker's demographics over the years.
+  
+  ---
+<p align="center"> 
+ 6.  How has Parker's racial demographics changed over the years?
+
+  ---   
+  This [visualization](https://infogram.com/parker-k-8-enrollment-1h8n6m35jowlj4x?live) shows the evolution of Parker's racial and ethnic demographics over the years.
