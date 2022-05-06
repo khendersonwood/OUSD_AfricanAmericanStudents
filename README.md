@@ -51,6 +51,8 @@ OUSD, California and the United States all saw a decline in enrollment of Africa
 |  49,449 |  50,061 |  50,665 |  51,725 |  51,641 |  52,472 |  53,166 |  53,391 |  53,145 |  52,167 |
   
 ![OUSD_Enrollment](https://user-images.githubusercontent.com/99926470/167166108-ca6e7c08-292f-4d5f-b6bd-34aefe515528.jpg)
+  
+[ Link to OUSD Enrollment Visualization](https://infogram.com/ousd-student-enrollment-1hd12yx7ew79x6k) 
 
   
 Despite OUSD's overall enrollment rising, their African American student population continues to fall.
@@ -85,6 +87,8 @@ To compare levels of absenteeism in California amongst races and ethnicities, I 
 
  ### Historic Rates of Overall  Chronic Absenteeism Rates in California by Race and Ethnicity  
 ![CA_RatesofAbsenteeism](https://user-images.githubusercontent.com/99926470/167149058-9af47a53-7fb6-4e2e-b3ce-b07cdf2fe31b.jpg)
+  
+[Link to Chronic Absenteeism by Race Visualization](https://infogram.com/ousd-student-enrollment-1hd12yx7ew79x6k)
   
 On average students who were White, Asian, Filipino or two or more races  had minimal increases, or even a slight decrease, in chronic absenteeism. In contrast, students who were Black, Hispanic, Latino, American Indian, Alaska Native and Pacific Islander have seen an increase in absenteeism.  
 
