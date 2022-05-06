@@ -39,12 +39,27 @@ OUSD, California and the United States all saw a decline in enrollment of Africa
     About a 24% decrease in in African American student enrollment in OUSD
   
   This data shows that there is a disparity in the loss of African American students, not only in California, but particulary in OUSD. I wanted to then look at OUSD's overall enrollment to see what that looked like.
+
+  ---
+<p align="center"> 
+  2. Is OUSD's overall enrollment falling as well?
   
+---
+
  | 2011-12 | 2012-13 | 2013-14 | 2014-15 | 2015-16 | 2016-17 | 2017-18 | 2018-19 | 2019-20 | 2020-21 |
 |---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|
 |  49,449 |  50,061 |  50,665 |  51,725 |  51,641 |  52,472 |  53,166 |  53,391 |  53,145 |  52,167 |
   
 Despite OUSD's overall enrollment rising, their African American student population continues to fall.
+
+Next, I wanted to look at Chronic Absenteeism amongst African American students. This data was collected from the Black Student Thriving Report that was given out at a local school board meeting on April 27, 2022 at La Escuealita Elementary School.
+  
+  ---
+<p align="center"> 
+  3. How does OUSD’s African American student absenteeism rates compare to those across California?
+  
+--- 
+[OUSD Data on absenteeism](https://data.oaklandca.gov/Equity-Indicators/Chronic-Absenteeism/5d4q-57a4/data) & [CA Data on absenteeism ](https://dq.cde.ca.gov/dataquest/DQCensus/AttChrAbsRate.aspx?cds=00&agglevel=State&year=2020-21&initrow=Eth&ro=y)
   
   
   
