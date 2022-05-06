@@ -38,7 +38,7 @@ OUSD, California and the United States all saw a decline in enrollment of Africa
  ### OUSD (11,173-14,743)/14,743 = -0.24214881638 X 100 = 24.2148816387
     About a 24% decrease in in African American student enrollment in OUSD
   
-  This data shows that there is a disparity in the loss of African American students, not only in California, but particulary in OUSD. I wanted to then look at OUSD's overall enrollment to see what that looked like.
+  This data shows that there is a disparity in the loss of African American students, not only in California, but particularly in OUSD. I wanted to then look at OUSD's overall enrollment to see what that looked like.
 
   ---
 <p align="center"> 
@@ -70,11 +70,11 @@ Next, I wanted to look at Chronic Absenteeism amongst African American students.
 
 [Link to Chronic Absenteeism Data Visualization ](https://infogram.com/copy-parker-data-1hxr4zxlowz3o6y?live)
 
-  ** Please note that California does not have data from the 2019-2020 school year due to COVID and their 2020-21 data on absenteeism is not availble yet.
+  ** Please note that California does not have data from the 2019-2020 school year due to COVID and their 2020-21 data on absenteeism is not available yet.
   
- OUSD consistently has higher rates of absenteeism for African American students in comparison to other African American students across the state. Since the 2011-12 school year, OUSD has experienced a 29.4% increase in abseentism, while the state of California has seen a 6.7% increase.
+ OUSD consistently has higher rates of absenteeism for African American students in comparison to other African American students across the state. Since the 2011-12 school year, OUSD has experienced a 29.4% increase in absenteeism, while the state of California has seen a 6.7% increase.
   
-I then wanted to see how rates of absenteeism for African American students in OUSD compared to other races and ethncities in OUSD.
+I then wanted to see how rates of absenteeism for African American students in OUSD compared to other races and ethnicities in OUSD.
     
   ---
 <p align="center"> 
@@ -83,7 +83,7 @@ I then wanted to see how rates of absenteeism for African American students in O
   --- 
 I used [CA Department of Education Data](https://dq.cde.ca.gov/dataquest/DQCensus/AttChrAbsRate.aspx?cds=00&agglevel=State&year=2020-21&initrow=Eth&ro=y) to answer this question.  
   
-To compare levels of absenteeism in California amongst races and ethnicities, I combined the data from the California Department Education from the 2017-2020  to one spreadsheet. Once I combined data from the 2017-2018 school year through the 2019-2020 school yea, I plotted the rates of overall chornic absenteeism by race and ethnicity on a line graph. 
+To compare levels of absenteeism in California amongst races and ethnicities, I combined the data from the California Department of Education from the 2017-2020  to one spreadsheet. Once I combined data from the 2017-2018 school year through the 2019-2020 school yea, I plotted the rates of overall chronic absenteeism by race and ethnicity on a line graph. 
 
  ### Historic Rates of Overall  Chronic Absenteeism Rates in California by Race and Ethnicity  
 ![CA_RatesofAbsenteeism](https://user-images.githubusercontent.com/99926470/167149058-9af47a53-7fb6-4e2e-b3ce-b07cdf2fe31b.jpg)
@@ -98,7 +98,7 @@ On average students who were White, Asian, Filipino or two or more races  had mi
 
   --- 
   
-I  calculated the percent change from the 2017-2018 school year to the 2019-2020 school year to see if groups had an increase or decrease in absenteeism. Further, I wanted to see if there were particular groups that had changed that were more stark or drastic than others.
+I  calculated the percent change from the 2017-2018 school year to the 2019-2020 school year to see if groups had an increase or decrease in absenteeism. Further, I wanted to see if particular groups had changed that were more stark or drastic than others.
 
 ![PercentChanges](https://user-images.githubusercontent.com/99926470/167150401-bdf5aaf9-be61-4eed-b3f7-862e69ab1019.jpg)
   
@@ -122,12 +122,14 @@ Lastly, I wanted to take a deeper look at one of the schools that is set to clos
  
   ---
 <p align="center"> 
- 6.  What does Parker's African American student enrollemnt look like over the years?
+ 6.  What does Parker's African American student enrollment look like over the years?
 
   ---   
-![Parker Enrollment](https://user-images.githubusercontent.com/99926470/167152533-b4965e63-5913-4e19-811b-1e1c5e24285c.jpg)
+![Parker K-8 enrollment](https://user-images.githubusercontent.com/99926470/167168226-049fbab0-4e33-453e-abb6-11e4f818b854.jpg)
   
- The data clearly shows that that Parker's African American enrollment has been falling. To get a better understand of how Parker's demographics have changed over time I created an animated piechart to display Parker's demographics over the years.
+[Link to Parker K-8 Enrollment Visualization](https://infogram.com/copy-parker-data-1h8n6m35joxwj4x?live)
+  
+ The data  shows that Parker's African American enrollment has been falling. To get a better understanding of how Parker's demographics have changed over time I created an animated piechart to display Parker's demographics over the years.
   
   ---
 <p align="center"> 
@@ -135,3 +137,25 @@ Lastly, I wanted to take a deeper look at one of the schools that is set to clos
 
   ---   
   This [visualization](https://infogram.com/parker-k-8-enrollment-1h8n6m35jowlj4x?live) shows the evolution of Parker's racial and ethnic demographics over the years.
+  
+  ---   
+  <p align="center"> 
+Additional Sources
+
+  ---
+ To learn more about OUSD school closures, enrollment, absenteeism and Parker K-8 you can reach out to:
+    
+ #### John Sasaski
+ OUSD Director of Communications
+ john.sasaki@ousd.org
+    
+ John Sasaki can answer additional questions about schools in the district, such as: where are students set to attend when their schools shut down, what percent of students are receiving additional support from the school throughout this transition etc.
+    
+#### Superintedent Kyla Johnson-Trammell
+    superintendent@ousd.org
+    (510) 879-8000
+    @SupKylaOUSD
+    
+Superintendent Kyla Johnson-Trammell can provide a deeper insight into the district's motivation to shut down several schools, as well as provide an overview of upcoming steps for the community of Oakland
+    
+    
